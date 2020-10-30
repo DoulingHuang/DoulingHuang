@@ -1,8 +1,5 @@
 ### Here is Douling Github 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=douling&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-
-
 <div align="left">
 
 <i>Let's Connect:</i>
@@ -17,12 +14,6 @@
 
 <br>
 **✨ Tech stacks currently using** 
-<br>
-
-* Item 1
-* Item 2
-* Item 2a
-<br>
 <br>
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><a href="https://jupyter.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
