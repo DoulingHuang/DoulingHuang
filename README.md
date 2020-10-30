@@ -18,7 +18,6 @@
 <br>
 **✨ Tech stacks currently using** 
 <br>
-### Unordered
 
 * Item 1
 * Item 2
