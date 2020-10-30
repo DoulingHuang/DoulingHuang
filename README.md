@@ -17,6 +17,12 @@
 
 <br>
 **✨ Tech stacks currently using** 
+### Unordered
+
+* Item 1
+* Item 2
+* Item 2a
+* Item 2b
 <br>
 <br>
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
